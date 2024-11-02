@@ -4,7 +4,7 @@ const bceypt=require('bcryptjs')
 const User=require('../Skima/Peraon')
 const jwt=require('jsonwebtoken')
 const { response } = require('express')
-const productfind=require('../product.json')
+
 
 
 //----regisister
