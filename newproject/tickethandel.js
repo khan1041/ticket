@@ -6,7 +6,7 @@ const jwt=require('jsonwebtoken')
 const { response } = require('express')
 const router = require('../router/auth-router')
 const { trusted } = require('mongoose')
-const { count } = require('../constralers/control-auth')
+
 
 
 
